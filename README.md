@@ -1,3 +1,3 @@
 # Expressions-Interpreter
 
-A  java program that calculates and simplifies an expression, using the Interpreter design pattern.
+A  java program that calculates and simplifies logical expressions, using the Interpreter design pattern.
