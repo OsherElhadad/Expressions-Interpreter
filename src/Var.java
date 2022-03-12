@@ -1,4 +1,3 @@
-// ID - 318969748
 
 /*
  * Osher Elhadad
